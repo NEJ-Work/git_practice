@@ -28,3 +28,7 @@ print("Calculator ready!")
 def square(a):
     """Return the square of a number"""
     return a ** 2
+
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
