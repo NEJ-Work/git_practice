@@ -1,1 +1,4 @@
-print("Hello, Git!")
+print("Greetings from GitHub!")
+print("This version was edited on the web")
+print("Hello from VS Code!")
+print("This version was edited locally")
