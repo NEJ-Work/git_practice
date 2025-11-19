@@ -19,6 +19,9 @@ Learning Git and GitHub for the first time!
 - Using Visual Studio Code for Git integration
 - VS Code provides a visual interface for Git operations
 
+## Contributors
+
+- [Ali Albaqshi] (https://github.com/Ali0926)
 
 
 
